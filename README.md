@@ -10,7 +10,7 @@ pkg update && pkg upgrade
 pkg install ruby
 git clone https://github.com/Peju3ncer/Payload-G-Generator.git
 cd Payload-G-Generator
-ruby paylodgg.rb
+ruby payloadgg.rb
 ```
 abis tuh ikutin aja langkah-langkahnya ntar paham sendiri kok.
 ___
