@@ -15,6 +15,7 @@ HEADER = <<~ART
                                                                                                               
   
        Copyright © Peju3ncer - GG is Gabut Generator
+ART
 
 puts HEADER
 
